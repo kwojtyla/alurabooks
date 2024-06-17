@@ -1,4 +1,4 @@
-# 🖥️ Portfolio e LinkTree com HTML e CSS
+# 🖥️ Marketplace de Livraria com HTML e CSS
 
 Oi! Karol aqui :)
 
